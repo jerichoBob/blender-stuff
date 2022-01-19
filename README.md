@@ -18,10 +18,11 @@ Also a shoutout to all of the YouTubers that are making me smarter (or at least 
    2. [Industrial JP](<https://www.youtube.com/watch?v=fpjN_ZwiEvo&list=PL4Dq5VyfewIyGpbporCr9I2GiHXJ0Dqed>)
       1. not Ian's creation, and nothing to do with Blender -- but hypnotic to watch and nice soundtrack
 2. [Erindale](<https://www.youtube.com/c/Erindale>)
+   1. [HexWorld](https://www.youtube.com/watch?v=EboNtLKn_m8) tutorial - beauty
 3. [PolyFjord](<https://www.youtube.com/c/Polyfjord>)
 4. [Bad Normals](https://www.youtube.com/c/BadNormals)
 5. [BlenderFoundation](<https://www.youtube.com/c/BlenderFoundation>)
 6. [BlenderGuru](<https://www.youtube.com/c/BlenderGuruOfficial>) - make a donut, any donut
 7. [Blender Secrets](https://www.youtube.com/c/BlenderSecrets) - subscribe to their emails
 8. [CG Cookie](https://www.youtube.com/c/CGCookieBlender)
-9. more coming...
+9.  more coming...
