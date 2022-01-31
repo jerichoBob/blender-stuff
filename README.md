@@ -4,7 +4,7 @@
 
 A place to keep my Blender musings and learnables. 
 
-Because we are playing with larger files (textures, fonts and *fbx files from Mixamo), I have also downloaded/installed [git-lfs](https://git-lfs.github.com/) to manage those larger files. Pretty nifty.
+Because we are playing with larger files (textures, fonts and *fbx files from Mixamo), I have also downloaded/installed [git-lfs](https://git-lfs.github.com/) to manage those larger files. Pretty nifty. One thing, when I installed git-lfs, it messed with my ~/.gitconfig file and changed the email address back to a previous (work) email address. No harm, but totally unexpected.
 
 ## Thank you
 
