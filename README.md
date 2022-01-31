@@ -2,7 +2,9 @@
 
 ## What's this?
 
-A place to keep my Blender musings and learnables.
+A place to keep my Blender musings and learnables. 
+
+Because we are playing with larger files (textures, fonts and *fbx files from Mixamo), I have also downloaded/installed [git-lfs](https://git-lfs.github.com/) to manage those larger files. Pretty nifty.
 
 ## Thank you
 
@@ -19,6 +21,7 @@ Also a shoutout to all of the YouTubers that are making me smarter (or at least 
       1. not Ian's creation, and nothing to do with Blender -- but hypnotic to watch and nice soundtrack
 2. [Erindale](<https://www.youtube.com/c/Erindale>)
    1. [HexWorld](https://www.youtube.com/watch?v=EboNtLKn_m8) tutorial - beauty
+   2. 
 3. [PolyFjord](<https://www.youtube.com/c/Polyfjord>)
 4. [Bad Normals](https://www.youtube.com/c/BadNormals)
 5. [BlenderFoundation](<https://www.youtube.com/c/BlenderFoundation>)
